@@ -28,5 +28,4 @@
 ## Problems
 * commit without -m -> Usse Esc :wq to quit Vim
 * wrong message -> git commit --amend -m "New message"
-
-ygsdvhhysdvsdshdvhdsvckjahvlshdfcbkrubgxsjdhajghfdhgfkdghfkjsfghdakjdghfaskhdgaksdhfgg
+* wrong commit -> git checkout COMMIT_ID
