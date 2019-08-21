@@ -6,5 +6,6 @@ public class Git
         System.out.println("Hi Mom!");
         System.out.println("practice 1");
         System.out.println("practice 2");
+        System.out.println("practice 3");
     }
 }
