@@ -14,7 +14,7 @@
 2. Stage related changes
     * git add
 3. Commit changes with a message
-    * git -m "Message"
+    * git commit -m "Message"
 
 ## Commands
 
